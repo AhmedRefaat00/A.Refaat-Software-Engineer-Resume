@@ -8,8 +8,8 @@ This project is a My digital resume,  The resume is built using React.
   Detailed sections for Summary, Education, Technical Skills, Certifications, Training, Professional Experience, Personal Projects, and Languages
 </p>
 <h3>Technologies Used</h3>
-React
-@react-spring/web
-CSS
+<p>React</p>
+<p>@react-spring/web</p>
+<p>CSS</p>
 <h3>Link</h3>
 <a src="https://a-refaat-software-engineer-resume-pei02iiuv.vercel.app">Link</a>
