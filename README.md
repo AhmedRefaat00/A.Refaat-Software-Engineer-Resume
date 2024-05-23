@@ -12,4 +12,5 @@ This project is a My digital resume,  The resume is built using React.
 <p>- @react-spring/web</p>
 <p>- CSS</p>
 <h3>Link</h3>
-- 📄 Know about my experiences [Resume](https://a-refaat-software-engineer-resume-pei02iiuv.vercel.app/)
+<a href="https://a-refaat-software-engineer-resume-pei02iiuv.vercel.app/" target="_blank" rel="noreferrer">Resume</a>
+
