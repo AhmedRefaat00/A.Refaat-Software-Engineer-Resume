@@ -121,7 +121,9 @@ const Resume = () => {
                         The application fetches questions from an API, allows users to
                         answer them within a time limit, and keeps track of their score and high score.
                         <a href="https://ahmedrefaat00ar-the-react-quiz.netlify.app/">Link</a></li>
-                    <li><strong>Popcorn:</strong>useEffect, data fetching, custom hooks<a href="https://www.behance.net/gallery/127846847/7gz-Kora-app">Behance</a></li>
+                    <li><strong>Popcorn:</strong>A comprehensive movie applica
+                        tion built with React that allows users to search for movies, view details, and manage a list of watched movies.
+                        <a href="https://github.com/AhmedRefaat00/popcorn-app">Github</a></li>
                 </ul>
             </animated.section>
 
