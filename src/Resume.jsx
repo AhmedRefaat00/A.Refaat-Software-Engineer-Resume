@@ -115,8 +115,13 @@ const Resume = () => {
             <animated.section style={sectionSpring}>
                 <h3>Personal Projects</h3>
                 <ul>
-                    <li><strong>Connect-4 Game:</strong> Developed using Android Studio for Android platform, integrated online gameplay using Firebase. <a href="https://drive.google.com/file/u/1/d/1upUT5TkiElqSIHPQFY5fWtWEhUw1HA8v/view?usp=sharing">Link</a></li>
-                    <li><strong>7GZ Kora App:</strong> Designed user interface for a mobile application using Adobe XD, showcased on Behance. <a href="https://www.behance.net/gallery/127846847/7gz-Kora-app">Behance</a></li>
+                    <li><strong>The React Quiz App:</strong>This project is
+                        a quiz application built with React, utilizing the useReducer
+                        and useEffect hooks for state management and side effects.
+                        The application fetches questions from an API, allows users to
+                        answer them within a time limit, and keeps track of their score and high score.
+                        <a href="https://ahmedrefaat00ar-the-react-quiz.netlify.app/">Link</a></li>
+                    <li><strong>Popcorn:</strong>useEffect, data fetching, custom hooks<a href="https://www.behance.net/gallery/127846847/7gz-Kora-app">Behance</a></li>
                 </ul>
             </animated.section>
 
