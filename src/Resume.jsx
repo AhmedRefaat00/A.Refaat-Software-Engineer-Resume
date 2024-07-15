@@ -115,11 +115,15 @@ const Resume = () => {
             <animated.section style={sectionSpring}>
                 <h3>Personal Projects</h3>
                 <ul>
+                    <li><strong>WorldWise App:</strong>is a React application designed to provide information about cities and countries.
+                        <a href="https://ahmedrefaat00worldwise.netlify.app/">
+                            WorldWise
+                        </a>
+                    </li>
                     <li><strong>The React Quiz App:</strong>This project is
                         a quiz application built with React, utilizing the useReducer
                         and useEffect hooks for state management and side effects.
-                        The application fetches questions from an API, allows users to
-                        answer them within a time limit, and keeps track of their score and high score.
+                        The application fetches questions from an API.
                         <a href="https://ahmedrefaat00ar-the-react-quiz.netlify.app/">Link</a></li>
                     <li><strong>Popcorn:</strong>A comprehensive movie applica
                         tion built with React that allows users to search for movies, view details, and manage a list of watched movies.
